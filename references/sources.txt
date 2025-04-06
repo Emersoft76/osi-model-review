@@ -1,0 +1,5 @@
+Cisco CCNA Study Guide – OSI Model  
+RFC 1122 – Internet Host Requirements  
+Wikipedia - OSI Model  
+CompTIA Network+ Official Book  
+"Computer Networking: A Top-Down Approach" – Kurose & Ross
